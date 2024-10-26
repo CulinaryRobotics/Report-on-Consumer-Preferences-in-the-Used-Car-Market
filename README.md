@@ -2,7 +2,7 @@ Report on Consumer Preferences in the Used Car Market
 
 Objective: This report provides insights into consumer preferences in the used car market, aimed at helping dealerships fine-tune their inventory management, optimize pricing strategies, and enhance marketing efforts.
 
-1. Introduction
+1. Introduction:
 Understanding what drives consumer decisions when purchasing used cars is crucial for maintaining a competitive edge in the market. This analysis focuses on key factors influencing consumer behavior, including vehicle condition, price sensitivity, mileage, additional features, and brand reputation.
 
 2. Key Findings
